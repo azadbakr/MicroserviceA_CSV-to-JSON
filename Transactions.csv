@@ -1,0 +1,501 @@
+ID,Amount,Date,Description,Category
+1,1678.49,5/23/2024,Gas Station,Transportation
+2,14.24,12/16/2023,Electricity Bill,Utilities
+3,p,8/28/2024,Electricity Bill,Utilities
+4,166.37,6/1/2024,Gas Bill,Utilities
+5,"""2.3""",12/23/2023,Doctor Visit,Health
+6,227.54,7/10/2024,Doctor Visit,Health
+7,303.9,9/9/2024,Monthly Rent,Rent
+oo,1360.19,5/12/2024,Doctor Visit,Health
+,1837.16,7/10/2024,Walmart Grocery,Groceries
+10,562.29,1/15/2024,Public Transit,Transportation
+11,409.77,6/6/2024,Game Purchase,Entertainment
+12,1896.44,5/15/2024,Monthly Rent,Rent
+13,455.8,4/10/2024,Concert Tickets,Entertainment
+14,1993.26,1/14/2024,Gym Membership,Health
+15,NaN,invalid_date,Local Diner,Dining
+16,1031.31,5/12/2024,Salary,Income
+17,1125.69,2/16/2024,Salary,Income
+18,1396.95,4/4/2024,Gas Station,Transportation
+19,3948.3,5/31/2024,Freelance Payment,Income
+20,92.14,10/13/2024,Monthly Rent,Rent
+21,1077.16,5/27/2024,Starbucks,Dining
+22,239.18,1/13/2024,Monthly Rent,Rent
+23,53.52,11/2/2024,Trader Joe's,Groceries
+24,513.64,7/4/2024,Walmart Grocery,Groceries
+25,3078.11,3/12/2024,Freelance Payment,Income
+26,357.12,7/25/2024,Gas Station,Transportation
+27,262.73,invalid_date,Doctor Visit,Health
+28,1606.58,11/11/2023,Trader Joe's,Groceries
+29,1363.67,11/30/2023,Water Bill,Utilities
+30,1219.42,11/13/2023,Trader Joe's,Groceries
+31,421.12,10/29/2024,Game Purchase,Entertainment
+32,1090.98,invalid_date,Uber Ride,Transportation
+33,589.41,4/6/2024,Uber Ride,Transportation
+34,134.91,12/18/2023,Game Purchase,Entertainment
+35,1994.01,12/17/2023,Starbucks,Dining
+36,2316.01,12/27/2023,Salary,Income
+37,823.85,11/8/2023,Gas Station,Transportation
+38,1577.28,9/15/2024,Game Purchase,Entertainment
+39,526.91,4/15/2024,Game Purchase,Entertainment
+40,647.41,3/31/2024,Water Bill,Utilities
+41,NaN,invalid_date,Bonus,Income
+42,494.54,2/19/2024,Gas Station,Transportation
+43,724.17,7/29/2024,Movie Theater,Entertainment
+44,1576.95,4/2/2024,Public Transit,Transportation
+45,481.74,6/25/2024,Doctor Visit,Health
+46,922.6,5/9/2024,Uber Ride,Transportation
+47,87.72,10/11/2024,Gym Membership,Health
+48,1371.55,6/3/2024,Public Transit,Transportation
+49,764.63,2/15/2024,Uber Ride,Transportation
+50,1159.16,10/8/2024,Gas Bill,Utilities
+51,1756.04,3/11/2024,Salary,Income
+52,1352.54,2/20/2024,Walmart Grocery,Groceries
+53,105.54,6/25/2024,Whole Foods,Groceries
+54,179.12,11/21/2023,Pharmacy,Health
+55,1693.29,3/22/2024,Local Diner,Dining
+56,1330.96,1/6/2024,Walmart Grocery,Groceries
+57,926.31,12/22/2023,Gas Bill,Utilities
+58,1196.42,5/15/2024,Whole Foods,Groceries
+59,1276.03,1/8/2024,Game Purchase,Entertainment
+60,188.79,6/4/2024,Gas Bill,Utilities
+61,1364.88,7/1/2024,Uber Ride,Transportation
+62,1324.55,5/18/2024,Walmart Grocery,Groceries
+63,1132.18,10/7/2024,Whole Foods,Groceries
+64,404.87,9/1/2024,Game Purchase,Entertainment
+65,524.96,4/24/2024,Uber Ride,Transportation
+66,1694.28,10/24/2024,Freelance Payment,Income
+67,4171.62,12/8/2023,Freelance Payment,Income
+68,47.81,invalid_date,Monthly Rent,Rent
+69,117.25,12/11/2023,Gas Bill,Utilities
+70,673.32,6/1/2024,Movie Theater,Entertainment
+71,453.4,7/19/2024,Monthly Rent,Rent
+72,3218.53,7/16/2024,Bonus,Income
+73,1589.81,1/11/2024,Gas Bill,Utilities
+74,1049.71,8/1/2024,Whole Foods,Groceries
+75,846.03,11/3/2024,Gym Membership,Health
+76,852.89,6/7/2024,Whole Foods,Groceries
+77,1714.38,10/6/2024,Electricity Bill,Utilities
+78,494.4,11/16/2023,Whole Foods,Groceries
+79,64.27,6/1/2024,McDonald's,Dining
+80,1841.26,6/3/2024,Local Diner,Dining
+81,1772.22,1/15/2024,Walmart Grocery,Groceries
+82,334.32,6/17/2024,Concert Tickets,Entertainment
+83,909.15,1/28/2024,Concert Tickets,Entertainment
+84,1297.29,5/9/2024,Walmart Grocery,Groceries
+85,209.81,9/30/2024,Trader Joe's,Groceries
+86,1407.43,2/20/2024,McDonald's,Dining
+87,1700.79,3/24/2024,Public Transit,Transportation
+88,NaN,7/29/2024,Freelance Payment,Income
+89,NaN,invalid_date,Water Bill,Utilities
+90,321.83,2/11/2024,Public Transit,Transportation
+91,2762.13,3/19/2024,Freelance Payment,Income
+92,40.4,6/19/2024,Walmart Grocery,Groceries
+93,1708.08,9/28/2024,Gym Membership,Health
+94,1082.75,5/6/2024,Monthly Rent,Rent
+95,1791.3,11/15/2023,Whole Foods,Groceries
+96,977.71,12/21/2023,Concert Tickets,Entertainment
+97,1985.18,3/27/2024,Monthly Rent,Rent
+98,1852.08,2/22/2024,Pharmacy,Health
+99,1136.82,3/25/2024,Bonus,Income
+100,1908.84,6/19/2024,Water Bill,Utilities
+101,208.36,5/18/2024,McDonald's,Dining
+102,826.05,invalid_date,Movie Theater,Entertainment
+103,1335.15,6/20/2024,Freelance Payment,Income
+104,492.73,7/24/2024,Movie Theater,Entertainment
+105,NaN,invalid_date,Monthly Rent,Rent
+106,1031.43,2/16/2024,Water Bill,Utilities
+107,238.3,7/27/2024,Electricity Bill,Utilities
+108,197.68,invalid_date,Walmart Grocery,Groceries
+109,1201.71,4/21/2024,Local Diner,Dining
+110,732.91,8/13/2024,Gas Bill,Utilities
+111,109.44,invalid_date,Trader Joe's,Groceries
+112,1811.91,3/3/2024,Monthly Rent,Rent
+113,1740.02,3/12/2024,Walmart Grocery,Groceries
+114,539.61,11/7/2023,Movie Theater,Entertainment
+115,967.14,6/30/2024,Gas Bill,Utilities
+116,934.14,4/27/2024,Gas Bill,Utilities
+117,1979.93,4/23/2024,Concert Tickets,Entertainment
+118,1290.1,9/7/2024,Whole Foods,Groceries
+119,3245.81,3/16/2024,Salary,Income
+120,933.39,2/19/2024,Trader Joe's,Groceries
+121,NaN,invalid_date,Trader Joe's,Groceries
+122,1354.76,7/3/2024,Gym Membership,Health
+123,527.06,4/26/2024,Public Transit,Transportation
+124,565.79,3/30/2024,Water Bill,Utilities
+125,1995.68,8/14/2024,Local Diner,Dining
+126,1886.17,7/22/2024,Monthly Rent,Rent
+127,1330.1,8/31/2024,Public Transit,Transportation
+128,1099.01,9/8/2024,Water Bill,Utilities
+129,NaN,3/16/2024,Doctor Visit,Health
+130,4282.14,6/1/2024,Salary,Income
+131,4822.91,7/24/2024,Bonus,Income
+132,2396.02,3/17/2024,Salary,Income
+133,86.16,12/2/2023,Movie Theater,Entertainment
+134,2793.13,4/18/2024,Salary,Income
+135,4271.82,7/3/2024,Freelance Payment,Income
+136,1310.46,8/12/2024,Local Diner,Dining
+137,850.32,4/27/2024,Uber Ride,Transportation
+138,1962.88,2/18/2024,Starbucks,Dining
+139,3727.13,2/22/2024,Bonus,Income
+140,3587,2/6/2024,Bonus,Income
+141,210.24,6/27/2024,Trader Joe's,Groceries
+142,761.42,6/17/2024,Pharmacy,Health
+143,199.12,4/20/2024,Monthly Rent,Rent
+144,1607.01,4/13/2024,Gym Membership,Health
+145,1122.27,10/20/2024,Starbucks,Dining
+146,617.46,11/17/2023,Local Diner,Dining
+147,1373.09,5/9/2024,Whole Foods,Groceries
+148,524.96,1/12/2024,Starbucks,Dining
+149,213.74,11/30/2023,Gas Station,Transportation
+150,1407.36,11/29/2023,Public Transit,Transportation
+151,1186.92,5/2/2024,Gas Station,Transportation
+152,1056.29,9/19/2024,Pharmacy,Health
+153,3839.92,2/19/2024,Salary,Income
+154,1905.49,5/17/2024,Electricity Bill,Utilities
+155,396.25,12/12/2023,Trader Joe's,Groceries
+156,99.29,7/22/2024,Doctor Visit,Health
+157,446.11,6/26/2024,Local Diner,Dining
+158,1044.44,2/15/2024,Concert Tickets,Entertainment
+159,1002.69,3/22/2024,Walmart Grocery,Groceries
+160,1375.89,2/1/2024,Freelance Payment,Income
+161,209.48,6/17/2024,Concert Tickets,Entertainment
+162,85.79,3/9/2024,Gas Bill,Utilities
+163,1292.53,5/15/2024,Doctor Visit,Health
+164,1624.31,8/21/2024,Game Purchase,Entertainment
+165,1737.75,2/9/2024,Public Transit,Transportation
+166,289.26,invalid_date,Pharmacy,Health
+167,1480.98,7/4/2024,Starbucks,Dining
+168,1829.08,4/10/2024,Public Transit,Transportation
+169,1237.15,2/2/2024,Water Bill,Utilities
+170,1434.35,7/6/2024,Monthly Rent,Rent
+171,1266.24,9/15/2024,Public Transit,Transportation
+172,566.87,8/13/2024,Monthly Rent,Rent
+173,2025.83,6/7/2024,Salary,Income
+174,1674.35,1/9/2024,Salary,Income
+175,1294.85,8/22/2024,Trader Joe's,Groceries
+176,1026.01,11/13/2023,Walmart Grocery,Groceries
+177,3568.59,4/2/2024,Bonus,Income
+178,1034.09,9/5/2024,Gym Membership,Health
+179,229.06,8/8/2024,Gym Membership,Health
+180,1011.75,7/30/2024,Gas Station,Transportation
+181,1868.95,9/13/2024,Local Diner,Dining
+182,938.4,7/19/2024,Movie Theater,Entertainment
+183,1126.85,3/12/2024,Whole Foods,Groceries
+184,124.82,10/2/2024,Walmart Grocery,Groceries
+185,1048.58,8/24/2024,Concert Tickets,Entertainment
+186,555.7,3/1/2024,Public Transit,Transportation
+187,148.47,7/9/2024,McDonald's,Dining
+188,1098.1,8/3/2024,Gas Bill,Utilities
+189,1881.72,3/17/2024,Pharmacy,Health
+190,172.65,9/15/2024,Starbucks,Dining
+191,231.89,11/30/2023,McDonald's,Dining
+192,1283.63,8/10/2024,Doctor Visit,Health
+193,315.08,1/15/2024,Whole Foods,Groceries
+194,80.86,8/27/2024,Uber Ride,Transportation
+195,1124.04,4/14/2024,Gas Station,Transportation
+196,1937.32,10/8/2024,Trader Joe's,Groceries
+197,1858.18,4/11/2024,Trader Joe's,Groceries
+198,1328.22,7/11/2024,Game Purchase,Entertainment
+199,1425.92,12/27/2023,Pharmacy,Health
+200,4330.71,5/30/2024,Freelance Payment,Income
+201,2031.39,2/7/2024,Bonus,Income
+202,265.11,4/28/2024,Concert Tickets,Entertainment
+203,1024.16,10/12/2024,Monthly Rent,Rent
+204,1710.97,3/26/2024,Local Diner,Dining
+205,962.46,8/11/2024,Monthly Rent,Rent
+206,1586.16,12/17/2023,Monthly Rent,Rent
+207,1499.14,5/9/2024,Gas Bill,Utilities
+208,1776.91,2/10/2024,Whole Foods,Groceries
+209,978.61,10/20/2024,Monthly Rent,Rent
+210,NaN,11/26/2023,Gym Membership,Health
+211,588.41,2/2/2024,McDonald's,Dining
+212,1999.6,4/5/2024,Walmart Grocery,Groceries
+213,39.62,6/18/2024,Doctor Visit,Health
+214,1586.38,4/11/2024,McDonald's,Dining
+215,233.28,12/25/2023,Gas Station,Transportation
+216,3552.65,8/5/2024,Salary,Income
+217,1622.71,5/28/2024,Local Diner,Dining
+218,4855.47,12/30/2023,Bonus,Income
+219,1122.21,12/18/2023,Salary,Income
+220,2869.82,5/29/2024,Freelance Payment,Income
+221,1477.68,1/11/2024,Trader Joe's,Groceries
+222,475.83,4/2/2024,Doctor Visit,Health
+223,1407.6,11/21/2023,Doctor Visit,Health
+224,169.93,12/21/2023,Gym Membership,Health
+225,736.46,10/15/2024,Local Diner,Dining
+226,1195.2,1/5/2024,McDonald's,Dining
+227,1681.95,7/12/2024,Monthly Rent,Rent
+228,1066.37,5/31/2024,Movie Theater,Entertainment
+229,1502.99,2/9/2024,Monthly Rent,Rent
+230,822.87,5/22/2024,McDonald's,Dining
+231,1205.02,invalid_date,Local Diner,Dining
+232,1168.51,5/30/2024,Whole Foods,Groceries
+233,537.19,1/21/2024,Monthly Rent,Rent
+234,763.97,3/7/2024,Doctor Visit,Health
+235,1030.32,9/10/2024,Concert Tickets,Entertainment
+236,1075.41,5/5/2024,Doctor Visit,Health
+237,413.65,2/18/2024,Water Bill,Utilities
+238,971.47,3/25/2024,Concert Tickets,Entertainment
+239,1390.57,11/6/2023,McDonald's,Dining
+240,958.28,6/22/2024,Uber Ride,Transportation
+241,600.74,3/8/2024,Gas Bill,Utilities
+242,1129.81,10/27/2024,McDonald's,Dining
+243,220.57,11/16/2023,Gas Bill,Utilities
+244,303.45,12/22/2023,Pharmacy,Health
+245,744.31,3/8/2024,Whole Foods,Groceries
+246,3399.08,12/4/2023,Freelance Payment,Income
+247,874.19,4/5/2024,Gas Station,Transportation
+248,1469.15,2/11/2024,Public Transit,Transportation
+249,198.51,2/28/2024,McDonald's,Dining
+250,417.82,5/23/2024,Monthly Rent,Rent
+251,868.75,7/20/2024,Movie Theater,Entertainment
+252,648.64,12/7/2023,Gym Membership,Health
+253,302.83,1/11/2024,Gas Station,Transportation
+254,1821.45,1/19/2024,Doctor Visit,Health
+255,359.96,3/7/2024,Monthly Rent,Rent
+256,3213.01,4/12/2024,Bonus,Income
+257,735.12,12/15/2023,Movie Theater,Entertainment
+258,391.26,3/25/2024,Water Bill,Utilities
+259,408.88,10/30/2024,Movie Theater,Entertainment
+260,1213.49,3/13/2024,Bonus,Income
+261,1975.91,12/2/2023,Electricity Bill,Utilities
+262,3880.35,11/16/2023,Freelance Payment,Income
+263,118.58,12/9/2023,Monthly Rent,Rent
+264,1105.89,2/19/2024,McDonald's,Dining
+265,276.3,8/18/2024,Monthly Rent,Rent
+266,1487.42,12/8/2023,Whole Foods,Groceries
+267,1740.37,10/6/2024,Uber Ride,Transportation
+268,1074.99,5/1/2024,Gas Bill,Utilities
+269,1018.72,11/10/2023,Pharmacy,Health
+270,57.01,5/2/2024,Trader Joe's,Groceries
+271,NaN,7/29/2024,Bonus,Income
+272,864.71,invalid_date,Walmart Grocery,Groceries
+273,791.02,6/27/2024,Gas Station,Transportation
+274,1372.52,11/3/2024,Trader Joe's,Groceries
+275,372.94,10/26/2024,Walmart Grocery,Groceries
+276,NaN,12/8/2023,Electricity Bill,Utilities
+277,1600.07,10/27/2024,Walmart Grocery,Groceries
+278,1724.37,3/11/2024,Walmart Grocery,Groceries
+279,1356.88,11/29/2023,Freelance Payment,Income
+280,404.53,11/7/2023,Gym Membership,Health
+281,978.93,11/18/2023,Local Diner,Dining
+282,558.43,5/14/2024,Doctor Visit,Health
+283,1765.28,4/22/2024,Uber Ride,Transportation
+284,1670.16,10/6/2024,McDonald's,Dining
+285,270.98,7/2/2024,Pharmacy,Health
+286,560.13,2/19/2024,Whole Foods,Groceries
+287,1183.08,10/4/2024,Gym Membership,Health
+288,798.75,10/25/2024,Concert Tickets,Entertainment
+289,885.13,5/20/2024,Concert Tickets,Entertainment
+290,1971.09,1/9/2024,Trader Joe's,Groceries
+291,517.92,3/25/2024,Movie Theater,Entertainment
+292,367.11,5/22/2024,Gas Bill,Utilities
+293,301.84,2/11/2024,Local Diner,Dining
+294,1893.07,7/2/2024,Electricity Bill,Utilities
+295,636.17,1/26/2024,Monthly Rent,Rent
+296,431.44,11/15/2023,Concert Tickets,Entertainment
+297,1694.1,3/19/2024,Water Bill,Utilities
+298,NaN,invalid_date,Starbucks,Dining
+299,1972.86,2/24/2024,Gym Membership,Health
+300,618.45,8/2/2024,Public Transit,Transportation
+301,1071.57,6/10/2024,Freelance Payment,Income
+302,1951.83,12/26/2023,Gym Membership,Health
+303,1016.05,9/10/2024,McDonald's,Dining
+304,14.71,1/22/2024,Doctor Visit,Health
+305,217.41,3/12/2024,Water Bill,Utilities
+306,704.7,2/27/2024,Public Transit,Transportation
+307,935.57,6/11/2024,Public Transit,Transportation
+308,284.58,1/30/2024,Whole Foods,Groceries
+309,278.92,10/18/2024,Gas Bill,Utilities
+310,1761.46,4/19/2024,Pharmacy,Health
+311,3225.52,1/31/2024,Bonus,Income
+312,1793.1,10/11/2024,Whole Foods,Groceries
+313,313.44,6/17/2024,Gym Membership,Health
+314,596.55,1/4/2024,Starbucks,Dining
+315,1985.43,2/8/2024,Gas Station,Transportation
+316,968.22,5/31/2024,Movie Theater,Entertainment
+317,1053.76,9/6/2024,Pharmacy,Health
+318,4233.06,6/12/2024,Freelance Payment,Income
+319,1485.93,10/28/2024,Movie Theater,Entertainment
+320,NaN,12/13/2023,Public Transit,Transportation
+321,913.41,11/3/2024,Gas Bill,Utilities
+322,1314.32,7/28/2024,Gas Station,Transportation
+323,2615.25,invalid_date,Salary,Income
+324,525.77,9/3/2024,Starbucks,Dining
+325,1524.71,11/8/2023,Concert Tickets,Entertainment
+326,1653.9,12/13/2023,Uber Ride,Transportation
+327,935.82,3/29/2024,Electricity Bill,Utilities
+328,507.17,9/27/2024,McDonald's,Dining
+329,899.22,8/18/2024,Public Transit,Transportation
+330,2640.69,7/11/2024,Freelance Payment,Income
+331,877.01,4/30/2024,McDonald's,Dining
+332,NaN,5/10/2024,McDonald's,Dining
+333,172.06,invalid_date,Monthly Rent,Rent
+334,429.95,3/28/2024,Local Diner,Dining
+335,343.43,5/25/2024,Doctor Visit,Health
+336,238.57,8/9/2024,Starbucks,Dining
+337,1957.1,5/30/2024,Monthly Rent,Rent
+338,669.24,1/27/2024,Whole Foods,Groceries
+339,643.86,2/2/2024,Concert Tickets,Entertainment
+340,544.48,11/28/2023,Movie Theater,Entertainment
+341,1673.77,3/23/2024,Whole Foods,Groceries
+342,831.07,8/10/2024,Local Diner,Dining
+343,459.23,11/3/2024,Uber Ride,Transportation
+344,4945.23,11/24/2023,Freelance Payment,Income
+345,1585.41,4/4/2024,McDonald's,Dining
+346,1427.83,7/16/2024,Electricity Bill,Utilities
+347,1720.89,5/16/2024,Game Purchase,Entertainment
+348,1528.16,12/25/2023,Movie Theater,Entertainment
+349,1888.18,9/10/2024,Trader Joe's,Groceries
+350,1977.4,5/21/2024,Concert Tickets,Entertainment
+351,945.56,9/22/2024,Monthly Rent,Rent
+352,1186.98,2/7/2024,McDonald's,Dining
+353,1900.36,4/27/2024,Monthly Rent,Rent
+354,1686.5,1/25/2024,Game Purchase,Entertainment
+355,873.47,2/10/2024,Water Bill,Utilities
+356,1129.15,4/24/2024,Monthly Rent,Rent
+357,1677.06,3/27/2024,Freelance Payment,Income
+358,1911.15,6/26/2024,Public Transit,Transportation
+359,901.2,11/10/2023,McDonald's,Dining
+360,740.49,11/15/2023,Starbucks,Dining
+361,50.26,4/7/2024,Starbucks,Dining
+362,763.57,9/19/2024,Uber Ride,Transportation
+363,1272.13,11/9/2023,Trader Joe's,Groceries
+364,1626.02,2/10/2024,Water Bill,Utilities
+365,232.08,8/13/2024,Water Bill,Utilities
+366,346.61,11/17/2023,Public Transit,Transportation
+367,970.65,9/15/2024,Electricity Bill,Utilities
+368,1289.71,9/6/2024,Freelance Payment,Income
+369,598.72,7/2/2024,McDonald's,Dining
+370,743,10/5/2024,Monthly Rent,Rent
+371,433.25,11/15/2023,Electricity Bill,Utilities
+372,99.63,10/7/2024,Pharmacy,Health
+373,1823.29,1/13/2024,Salary,Income
+374,1654.62,2/4/2024,Gym Membership,Health
+375,4188.14,9/24/2024,Freelance Payment,Income
+376,1462.76,invalid_date,Whole Foods,Groceries
+377,1334.88,7/5/2024,Electricity Bill,Utilities
+378,NaN,invalid_date,Monthly Rent,Rent
+379,506.16,2/21/2024,Monthly Rent,Rent
+380,189.29,1/12/2024,Gym Membership,Health
+381,1378.89,11/24/2023,Starbucks,Dining
+382,4380.89,4/10/2024,Freelance Payment,Income
+383,1941.39,9/25/2024,Gas Station,Transportation
+384,302.32,6/1/2024,Gym Membership,Health
+385,18.37,1/25/2024,Monthly Rent,Rent
+386,4838.51,11/3/2024,Bonus,Income
+387,518.41,10/3/2024,Gym Membership,Health
+388,1258.92,12/22/2023,Doctor Visit,Health
+389,2009.86,2/11/2024,Freelance Payment,Income
+390,1461.13,11/20/2023,Freelance Payment,Income
+391,244.14,1/28/2024,Game Purchase,Entertainment
+392,2137.24,invalid_date,Salary,Income
+393,1134.8,11/7/2023,Pharmacy,Health
+394,1478.98,7/9/2024,Gym Membership,Health
+395,198.11,5/22/2024,Gas Station,Transportation
+396,1190.39,7/17/2024,Movie Theater,Entertainment
+397,1133.78,10/15/2024,Pharmacy,Health
+398,911.88,12/12/2023,Public Transit,Transportation
+399,1201.62,11/2/2024,Monthly Rent,Rent
+400,1044.2,1/2/2024,Gas Bill,Utilities
+401,1065.88,4/6/2024,Uber Ride,Transportation
+402,1121.63,8/28/2024,Monthly Rent,Rent
+403,5.73,4/5/2024,Gym Membership,Health
+404,1544.74,8/12/2024,Local Diner,Dining
+405,1657.26,5/13/2024,Concert Tickets,Entertainment
+406,1399.84,7/29/2024,Trader Joe's,Groceries
+407,1891.89,invalid_date,Monthly Rent,Rent
+408,274.49,6/26/2024,Trader Joe's,Groceries
+409,561,12/12/2023,Trader Joe's,Groceries
+410,1559.31,3/23/2024,Public Transit,Transportation
+411,604.49,3/4/2024,Public Transit,Transportation
+412,4659.25,12/4/2023,Salary,Income
+413,100.62,5/2/2024,Starbucks,Dining
+414,1158.74,6/8/2024,Game Purchase,Entertainment
+415,1261.88,11/14/2023,Uber Ride,Transportation
+416,1263.99,8/29/2024,Electricity Bill,Utilities
+417,1929.03,9/20/2024,Monthly Rent,Rent
+418,1840.02,6/10/2024,Pharmacy,Health
+419,954.13,12/18/2023,Whole Foods,Groceries
+420,1029.2,5/29/2024,Starbucks,Dining
+421,301.22,4/4/2024,Monthly Rent,Rent
+422,1813.18,11/29/2023,Gym Membership,Health
+423,1564.02,1/19/2024,Uber Ride,Transportation
+424,3699.46,5/19/2024,Bonus,Income
+425,1568.52,9/24/2024,Pharmacy,Health
+426,1228.62,1/30/2024,Monthly Rent,Rent
+427,2800.34,6/25/2024,Bonus,Income
+428,886.26,5/3/2024,Movie Theater,Entertainment
+429,4064.9,9/7/2024,Freelance Payment,Income
+430,115.44,11/3/2024,Gym Membership,Health
+431,1368.12,11/22/2023,Bonus,Income
+432,721.13,12/23/2023,Gas Bill,Utilities
+433,1416.2,invalid_date,Movie Theater,Entertainment
+434,1971.61,3/13/2024,Concert Tickets,Entertainment
+435,2058.28,9/14/2024,Freelance Payment,Income
+436,3787.94,2/24/2024,Bonus,Income
+437,1317.89,2/3/2024,Monthly Rent,Rent
+438,2982.57,2/25/2024,Freelance Payment,Income
+439,510.58,8/8/2024,Local Diner,Dining
+440,178.83,11/24/2023,Doctor Visit,Health
+441,443.65,12/13/2023,Pharmacy,Health
+442,691.32,2/4/2024,Monthly Rent,Rent
+443,1109.76,12/12/2023,Monthly Rent,Rent
+444,1667.99,10/22/2024,Bonus,Income
+445,1928.5,9/30/2024,Public Transit,Transportation
+446,1546.38,11/16/2023,Game Purchase,Entertainment
+447,297.74,2/24/2024,Monthly Rent,Rent
+448,49.12,4/29/2024,Uber Ride,Transportation
+449,580.77,12/12/2023,Monthly Rent,Rent
+450,NaN,invalid_date,Game Purchase,Entertainment
+451,239.9,1/1/2024,Electricity Bill,Utilities
+452,1679.29,10/8/2024,Concert Tickets,Entertainment
+453,2099.19,2/4/2024,Freelance Payment,Income
+454,259.7,8/23/2024,Water Bill,Utilities
+455,1948.88,10/26/2024,Local Diner,Dining
+456,1561.67,3/27/2024,Monthly Rent,Rent
+457,1193.51,3/6/2024,Monthly Rent,Rent
+458,1701.81,6/19/2024,Pharmacy,Health
+459,1593.31,12/31/2023,Whole Foods,Groceries
+460,1327.24,1/23/2024,Walmart Grocery,Groceries
+461,928.29,8/2/2024,Movie Theater,Entertainment
+462,1499.65,7/26/2024,Local Diner,Dining
+463,328.36,2/19/2024,McDonald's,Dining
+464,1283.48,3/19/2024,Walmart Grocery,Groceries
+465,75.1,3/3/2024,Concert Tickets,Entertainment
+466,1312.79,3/11/2024,Concert Tickets,Entertainment
+467,1809.02,4/28/2024,Gas Station,Transportation
+468,NaN,invalid_date,Gas Bill,Utilities
+469,389.71,11/1/2024,Uber Ride,Transportation
+470,1083.88,9/14/2024,Walmart Grocery,Groceries
+471,1625.54,11/10/2023,Pharmacy,Health
+472,1414.53,7/12/2024,Electricity Bill,Utilities
+473,515.6,7/27/2024,Starbucks,Dining
+474,1614.84,3/16/2024,Gas Station,Transportation
+475,279.33,9/30/2024,Monthly Rent,Rent
+476,427.83,4/4/2024,Pharmacy,Health
+477,1570.64,9/26/2024,Walmart Grocery,Groceries
+478,1488.79,9/15/2024,Uber Ride,Transportation
+479,941.09,2/9/2024,Concert Tickets,Entertainment
+480,NaN,invalid_date,Starbucks,Dining
+481,4508.03,5/26/2024,Salary,Income
+482,663.08,2/9/2024,Gas Station,Transportation
+483,1653.45,11/30/2023,Game Purchase,Entertainment
+484,489.96,6/15/2024,Doctor Visit,Health
+485,1744.94,3/22/2024,Game Purchase,Entertainment
+486,1084.72,11/6/2023,Monthly Rent,Rent
+487,1569.26,12/18/2023,Salary,Income
+488,4776.29,10/14/2024,Bonus,Income
+489,1716.1,7/29/2024,Uber Ride,Transportation
+490,1078.26,4/4/2024,Gas Bill,Utilities
+491,212.39,6/27/2024,Monthly Rent,Rent
+492,1086.74,8/9/2024,Trader Joe's,Groceries
+493,643.6,6/22/2024,McDonald's,Dining
+494,1114.73,invalid_date,Monthly Rent,Rent
+495,734.8,1/19/2024,Walmart Grocery,Groceries
+496,NaN,10/25/2024,Salary,Income
+497,3575.6,6/20/2024,Salary,Income
+498,1252.99,3/11/2024,Doctor Visit,Health
+499,146.97,9/22/2024,Electricity Bill,Utilities
+500,1729.3,4/12/2024,Movie Theater,Entertainment
