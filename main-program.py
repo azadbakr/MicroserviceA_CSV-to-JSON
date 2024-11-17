@@ -1,8 +1,8 @@
 import zmq
 
 context = zmq.Context()
-socket = context.socket(zmq.REQ)  # REQ socket for main program
-socket.connect("tcp://localhost:5555")  # Connect to the microservice on port 5555
+socket = context.socket(zmq.REQ)    # REQ socket for main program
+socket.connect("tcp://localhost:5555")    # Connect to the microservice on port 5555
 
 # Path to the CSV file to send to the microservice
 csv_file_path = r'C:\Users\Azadb\PycharmProjects\CS361\Assignment 8\Transactions.csv'
