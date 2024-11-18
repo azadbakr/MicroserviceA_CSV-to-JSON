@@ -2,18 +2,23 @@
 
 This microservice processes a CSV file containing credit card transactions. Upon receiving the file path from the main program, it performs the following tasks:
 
-1. **JSON File Creation**: Converts the entire CSV data into a JSON file and saves it in the same directory as the CSV file.
-2. **Error Log Generation**: Creates a text file listing all errors in the CSV, including their location (row and column), to help identify and resolve issues.
-3. **Response to Main Program**: Sends the file paths of the generated JSON file and error log back to the main program for further processing or review.
+1. **File Reading**: Reads the CSV file using the provided path.
+2. **CSV to JSON Conversion**: Converts the valid rows of the CSV file into JSON format, excluding rows with errors. This JSON data is sent back to the main program for further processing if required.
+3. **Error Logging**: Generates a comprehensive error log, detailing all errors in the CSV file, including their exact location (row and column), to facilitate easy identification and resolution of issues.
+4. **Response Handling**: Sends the following back to the main program:
+    - Valid rows in JSON format.
+    - A detailed error log for review or further processing.
 
 ---
 
 ## Goals
 
-The microservice must:
-- Receive a CSV file path.
-- Read and validate the file data to identify incorrect entries.
-- Create a JSON file to save the processed information.
+The microservice is designed to:
+- Accept a CSV file path as input.
+- Validate the data in the CSV file and identify any erroneous entries.
+- Respond to the main program with:
+    - JSON representation of valid rows.
+    - An error log highlighting issues in the CSV file.
 
 ---
 
@@ -57,23 +62,32 @@ A. Instructions for **how to programmatically REQUEST data** from the microservi
 
 To request data, the main program sends the absolute path to the CSV file to the microservice using ZeroMQ. The file path must be a valid string.
 
-<u>Example Request:</u> 
+<u>Example call to request data:</u> 
 
 ```
-socket.send_string(r'C:\Path\Transactions.csv
+socket.send_string(r'C:\Path\Transactions.csv)
 ```
 
 B. Instructions for **how to programmatically RECEIVE data** from the microservice:
 
 To receive data, the main program listens for the microservice's response using ZeroMQ. The response will indicate success or error, along with file paths if successful.
 
-<u>Example Response:</u>
+<u>Example call to receive data:</u>
 
+```commandline
+socket.recv_json()
 ```
-Status: Success!
-Files:
-JSON File: C:\Path\Data.json
-Error Log: C:\Path\ErrorLog.txt
+
+The response will be shown as:
+```
+JSON Data:
+[{'ID': '1', 'Amount': '1678.49', 'Date': '5/23/2024', 'Description': 'Gas Station', 'Category': 'Transportation'}, ...]
+
+Errors:
+Row 3, Incorrect Amount: p
+Row 8, Incorrect ID: oo
+Row 15, Incorrect Date: invalid_date
+...
 ```
 
 C. **UML Sequence Diagram**
